@@ -16,6 +16,7 @@ Follow the steps as follows:
 *** Open the contacts_formatter.php file
 *** if your input file name is not combinedfile.vcf change it accordingly in the 3rd line.
 *** you can use .vcf or .csv formats but make sure the input and output file has same format that is either .csv or .vcf.
+*** Run the PHP script in a server.To setup a local php server download xampp. run the apache server. Place the .php file in htdocs directory. And run it.
 
 NJOY
 
